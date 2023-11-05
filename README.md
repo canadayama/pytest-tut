@@ -7,3 +7,6 @@
 
 ### Shutdown virtual environment
 ``(env name) $ exit``
+
+### Using @pytest.mark.{tag}
+``$ pytest -m {tag}``
